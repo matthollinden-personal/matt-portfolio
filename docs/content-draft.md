@@ -57,3 +57,13 @@ Photos supplied in WHSE Pics.zip are presented chronologically: IMG_7671.jpg (co
 ## Mobile Parking Lot screenshot
 
 User supplied Mobile Parking Lot.jpg in Mobile Parking Lot.zip. Included unchanged at assets/mobile-parking-lot.jpg. Caption describes the visible delivery summary, appliance details, serial numbers, and completion statuses; it does not claim the screenshot demonstrates scanning or a measured outcome.
+
+## Reschedule of Services Workflow
+
+Source: user-provided project description and Reschedule of Services Spec.png from the supplied ZIP. The case study explains the old ERP reorder process, mobile rescheduling solution, and qualitative reduction in manual effort. The visual specification illustrates current/future screens, refusal and rescheduling actions, quantity handling, and statuses. No metrics or project dates are inferred.
+
+## Appointment Assist for Consumer
+
+Source: user-provided description and AA Link Home.png / AA Link Reschedule.jpg from the supplied ZIP. The case study describes the old reminder and the intended consumer experience. Screens illustrate installer information, appointment actions, date selection, and confirmation. Implementation status and measured results were not confirmed; value is presented as intended, and a success message in the visual is not treated as evidence of a launch outcome.
+
+Selected Work order: Reschedule of Services Workflow, Appointment Assist for Consumer, Mobile Parking Lot, Warehouse transformation. All supplied images are included unchanged with full-size links.
