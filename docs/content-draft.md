@@ -53,3 +53,7 @@ Led the physical and technology-enabled design and implementation of an $8M ware
 Role and responsibilities come from the supplied résumé: Senior Material Flow Analyst; facility layout, racking, lift-truck requirements, contractor management, warehouse launch, and operational cutover.
 
 Photos supplied in WHSE Pics.zip are presented chronologically: IMG_7671.jpg (construction) then IMG_3968.jpg (completed warehouse and ribbon cutting). Neither photo is presented as a detailed demonstration of the scanner workflow. No project-specific dates or additional outcomes have been inferred.
+
+## Mobile Parking Lot screenshot
+
+User supplied Mobile Parking Lot.jpg in Mobile Parking Lot.zip. Included unchanged at assets/mobile-parking-lot.jpg. Caption describes the visible delivery summary, appliance details, serial numbers, and completion statuses; it does not claim the screenshot demonstrates scanning or a measured outcome.
