@@ -67,3 +67,13 @@ Source: user-provided project description and Reschedule of Services Spec.png fr
 Source: user-provided description and AA Link Home.png / AA Link Reschedule.jpg from the supplied ZIP. The case study describes the old reminder and the intended consumer experience. Screens illustrate installer information, appointment actions, date selection, and confirmation. Implementation status and measured results were not confirmed; value is presented as intended, and a success message in the visual is not treated as evidence of a launch outcome.
 
 Selected Work order: Reschedule of Services Workflow, Appointment Assist for Consumer, Mobile Parking Lot, Warehouse transformation. All supplied images are included unchanged with full-size links.
+
+## Automatic Damage Replacement Order Creation
+
+Source: user-provided description and Auto Replacement Results.png, included unchanged. The user reports an average reduction from 7 days to 3 days, from mobile damage replacement selection to replacement delivery. The box-and-whisker plot visually supports a tighter distribution after the change. Its vertical axis says weekdays; the reported averages are attributed to the project description and are not calculated from the image. No sample size, statistical significance, or exact quartiles are inferred.
+
+## Multifamily Living Unit Capture
+
+Source: user-provided description and Multifamily Living Unit Change and Training.png, included unchanged. The case describes capture of appliance/living-unit information for property-manager records and maintenance. The visual is an excerpt of delivery-agent training showing selection, scanning, location entry, and submission. No quantitative outcome is claimed.
+
+Updated Selected Work order: Reschedule of Services Workflow; Appointment Assist for Consumer; Mobile Parking Lot; Automatic Damage Replacement Order Creation; Multifamily Living Unit Capture; Warehouse Transformation. Both new studies use the GE APPLIANCES · GE DELIVERS LEGACY SYSTEM header.
