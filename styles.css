@@ -7,3 +7,16 @@
 .work>.case-study+.case-study{margin-top:36px}.specification-figure{margin:32px 0 0;padding:24px;background:var(--paper);border:1px solid var(--line);border-radius:5px}.specification-figure>a{display:block}.specification-figure img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:4px}.specification-figure figcaption{padding-top:22px;max-width:760px}.specification-figure .eyebrow,.appointment-gallery .eyebrow{color:var(--teal);margin-bottom:10px}.specification-figure figcaption>p:not(.eyebrow),.appointment-gallery figcaption>p:not(.eyebrow){font-size:13px;color:var(--muted);line-height:1.8}.specification-figure .screenshot-hint{margin-bottom:0}.appointment-gallery{display:grid;grid-template-columns:1fr 1fr;gap:30px;padding:30px;margin-top:32px;background:var(--paper);border:1px solid var(--line);border-radius:5px}.appointment-gallery figure{margin:0;min-width:0}.appointment-gallery a{display:flex;align-items:flex-start;justify-content:center}.appointment-gallery img{display:block;width:auto;max-width:100%;height:420px;object-fit:contain;object-position:top;border:1px solid var(--line);border-radius:4px}.appointment-gallery figcaption{padding-top:22px}.appointment-gallery figcaption p:last-child{margin-bottom:0}@media(max-width:600px){.specification-figure{padding:15px}.appointment-gallery{grid-template-columns:1fr;padding:20px;gap:30px}.appointment-gallery img{height:auto;max-height:540px;width:auto;max-width:100%}}
 
 .replacement-results>a{max-width:600px;margin-left:auto;margin-right:auto}
+
+/* Selected work: career groups and context */
+.work-intro{max-width:640px;margin:16px 0 0;font-size:14px;line-height:1.8;color:var(--muted)}
+.work>.section-heading{gap:32px}
+.work>.section-heading>p{flex-shrink:0}
+.work-group+.work-group{margin-top:64px}
+.work-group-heading{display:flex;justify-content:space-between;align-items:baseline;gap:24px;padding:18px 0;margin-bottom:24px;border-top:3px solid var(--teal);border-bottom:1px solid var(--line)}
+.work-group-heading h3{font-size:21px;line-height:1.4;font-weight:600;letter-spacing:-.3px;margin:0}
+.work-group-dates{flex-shrink:0;margin:0;font-size:13px;color:var(--muted)}
+.work-group>.case-study+.case-study{margin-top:36px}
+.work-group>.case-study:first-of-type{margin-top:0}
+@media(max-width:800px){.work>.section-heading{display:block}.work>.section-heading>p{margin-top:14px}.work-group-heading{flex-direction:column;gap:8px}}
+@media(max-width:600px){.work-group+.work-group{margin-top:44px}.work-group-heading h3{font-size:19px}.work-group-dates{font-size:12px}}
