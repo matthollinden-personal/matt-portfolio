@@ -33,3 +33,12 @@ nav a[aria-current="page"]{color:var(--teal);text-decoration:underline;text-deco
 .contact-page .contact{flex:1}
 .contact-page .contact-inner{align-items:start}
 @media(max-width:600px){.standalone-page .section{padding-top:44px;padding-bottom:44px}.standalone-page h1{font-size:34px}}
+
+/* Simplified case headers and image captions */
+.case-banner-compact h3{font-size:37px;margin-bottom:0}
+.specification-figure figcaption.image-caption,.appointment-gallery figcaption.image-caption{padding-top:0}
+.case-study .image-hint{font-size:11px;line-height:1.5;color:var(--muted);margin:8px 0 22px}
+.screenshot-preview{max-width:280px;width:100%;justify-self:center;min-width:0}
+.screenshot-preview>a{display:block}
+.screenshot-preview .image-hint{margin-bottom:0}
+@media(max-width:600px){.case-banner-compact h3{font-size:32px}}
